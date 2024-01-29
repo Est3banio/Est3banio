@@ -1,6 +1,6 @@
-# Est3banio's GitHub Profile 
+# Est3banio
 
-<a href="https://www.learnenough.com/certificates/Est3banio"><img src="https://www.learnenough.com/certificates/Est3banio/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+<a href="https://www.learnenough.com/certificates/Est3banio"><img src="https://www.learnenough.com/certificates/Est3banio/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/Est3banio"><img src="https://www.learnenough.com/certificates/Est3banio/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
 
 
 <!--
