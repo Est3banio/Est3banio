@@ -1,4 +1,4 @@
-# Hello, I'm Est3banio! 👋
+<!--# Hello, I'm Est3banio! 👋
 
 <!--As an avid programmer and technology enthusiast, I see coding as a form of art. My greatest passion lies in Ruby on Rails – a framework that, for me, represents the perfect blend of elegance and efficiency.
 
