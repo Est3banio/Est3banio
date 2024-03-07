@@ -10,7 +10,7 @@ Collaboration and knowledge sharing are key for me to succeed in this rapidly ev
 
 Let's connect and create something great together!-->
 
-<a href="https://www.learnenough.com/certificates/Est3banio"><img src="https://www.learnenough.com/certificates/Est3banio/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/Est3banio"><img src="https://www.learnenough.com/certificates/Est3banio/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
+
 
 
 <!--
