@@ -12,4 +12,4 @@ Let's connect and create something great together!
 
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/653779b2035e8d1be7302d94?variant=dark)](https://roadmap.sh)
+
