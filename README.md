@@ -13,3 +13,4 @@ Let's connect and create something great together!
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=est3banio&show_icons=true&theme=catppuccin_mocha)
