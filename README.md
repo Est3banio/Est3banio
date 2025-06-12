@@ -5,45 +5,47 @@ For me, **coding is art** – and **Ruby on Rails** is the perfect canvas: elega
 
 ---
 
-## 🚀 What drives me
+## 🚀 What Drives Me
 
-- I’m constantly exploring new technologies and pushing my skills through side projects.
-- I build **user-friendly**, **sustainable** solutions – with clean, maintainable code that tells a story.
-- I believe in open collaboration, continuous learning, and making tech more human.
+- Constantly exploring new technologies through side projects  
+- Building user-friendly, sustainable solutions  
+- Writing clean, maintainable code that tells a story  
+- Believing in collaboration, continuous learning, and human tech
 
 ---
 
 ## 🔧 My Tech Toolbox
 
-### 🖼️ **Frontend**
+### 🖼️ Frontend
 Astro · Vue.js · Stimulus · Tailwind CSS · HTML/CSS · JavaScript · TypeScript · Responsive Design · SASS/SCSS
 
-### ⚙️ **Backend**
+### ⚙️ Backend
 Ruby on Rails · Node.js · Hotwire · RESTful APIs · GraphQL  
 Authentication (OAuth, Devise) · Authorization (Pundit) · Background Jobs (Sidekiq)
 
-### 🚀 **DevOps**
+### 🚀 DevOps
 Docker · CI/CD Pipelines (GitHub Actions, GitLab CI) · Heroku · Hetzner  
 Coolify · Kubernetes · Infrastructure as Code (Terraform)
 
-### 🛢 **Databases**
+### 🛢 Databases
 PostgreSQL · MySQL · Redis · ElasticSearch · NoSQL (MongoDB)
 
-### 🧪 **Testing**
+### 🧪 Testing
 RSpec · Capybara · Cypress · Jest
 
-### 🧠 **Other**
+### ✨ Emerging Skills
 WebSockets · Accessibility (A11Y) · Performance Optimization  
 Internationalization (i18n) · Ollama UI · ChatGPT Prompt Engineering
 
 ---
 
-## 💡 Let's build together
+## 💡 Let's Build Together
 
-Collaboration and knowledge sharing are key to success in this fast-paced world.  
-If you’re working on something exciting – let’s talk!
+If you're working on something exciting – let's talk!  
+I’m open to collaborations, freelance work, and new challenges.
 
-🌐 [BanioBits.dev](https://baniobits.dev)
+🌐 [BanioBits.dev](https://baniobits.dev) – building apps that matter  
+💌 [Contact](https://www.baniobits.dev/en/contact)
 
 ---
 
