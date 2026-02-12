@@ -45,7 +45,7 @@ If you're working on something exciting – let's talk!
 I’m open to collaborations, freelance work, and new challenges.
 
 🌐 [stivio.dev](https://stivio.dev) – building apps that matter  
-💌 [Contact](https://www.stivio.dev/en/contact)
+💌 [Contact]([https://www.stivio.dev/en/contact](https://stivio.dev/contact))
 
 ---
 
