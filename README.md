@@ -44,8 +44,8 @@ Internationalization (i18n) · Ollama UI · ChatGPT Prompt Engineering
 If you're working on something exciting – let's talk!  
 I’m open to collaborations, freelance work, and new challenges.
 
-🌐 [BanioBits.dev](https://baniobits.dev) – building apps that matter  
-💌 [Contact](https://www.baniobits.dev/en/contact)
+🌐 [stivio.dev](https://stivio.dev) – building apps that matter  
+💌 [Contact](https://www.stivio.dev/en/contact)
 
 ---
 
