@@ -1,52 +1,35 @@
-# 👋 Hello, I'm Est3banio!
+## 👋 Hey, I'm Stefan
 
-I'm a passionate Full Stack Developer and technology enthusiast from Switzerland.  
-For me, **coding is art** – and **Ruby on Rails** is the perfect canvas: elegant, efficient, and built for humans.
+Full-stack developer from Bern, Switzerland — building products with **Ruby on Rails** and **Hotwire**.
 
----
-
-## 🚀 What Drives Me
-
-- Constantly exploring new technologies through side projects  
-- Building user-friendly, sustainable solutions  
-- Writing clean, maintainable code that tells a story  
-- Believing in collaboration, continuous learning, and human tech
+Founder of [**Stivio**](https://stivio.dev), a small Swiss studio making privacy-first software for people who think differently. I came to code late — my first career was as a baker — and that non-linear path shapes how I build and how I teach.
 
 ---
 
-## 🔧 My Tech Toolbox
+### 🛠️ What I'm working on
 
-### 🖼️ Frontend
-Astro · Vue.js · Stimulus · Tailwind CSS · HTML/CSS · JavaScript · TypeScript · Responsive Design · SASS/SCSS
-
-### ⚙️ Backend
-Ruby on Rails · Node.js · Hotwire · RESTful APIs · GraphQL  
-Authentication (OAuth, Devise) · Authorization (Pundit) · Background Jobs (Sidekiq)
-
-### 🚀 DevOps
-Docker · CI/CD Pipelines (GitHub Actions, GitLab CI) · Heroku · Hetzner  
-Coolify · Kubernetes · Infrastructure as Code (Terraform)
-
-### 🛢 Databases
-PostgreSQL · MySQL · Redis · ElasticSearch · NoSQL (MongoDB)
-
-### 🧪 Testing
-RSpec · Capybara · Cypress · Jest
-
-### ✨ Emerging Skills
-WebSockets · Accessibility (A11Y) · Performance Optimization  
-Internationalization (i18n) · Ollama UI · ChatGPT Prompt Engineering
+- **Denly** — a calm daily planner for ADHD brains. Habits, journal, notes, and tasks in one place. Live on the App Store and Google Play.
+- **SnipScheduler** — booking software for independent hairdressers, self-hosted on Coolify.
+- **Teaching** — Berufsbildner at [Stiftung BAND](https://band.ch) in Bern, introducing apprentices to C# and React. Full-circle moment: I did my own Vorlehre there.
 
 ---
 
-## 💡 Let's Build Together
+### 🧰 Stack I reach for
 
-If you're working on something exciting – let's talk!  
-I’m open to collaborations, freelance work, and new challenges.
+Rails · Hotwire (Turbo + Stimulus) · PostgreSQL · Tailwind CSS · Kamal · Docker · Coolify · GitLab CI · Linux (EndeavourOS + Neovim)
 
-🌐 [stivio.dev](https://stivio.dev) – building apps that matter  
-💌 [Contact](https://www.stivio.dev/en/contact)
+Self-hosted where it matters. Privacy-first by default.
 
 ---
 
-![Est3banio's GitHub stats](https://github-readme-stats.vercel.app/api?username=est3banio&show_icons=true&theme=catppuccin_mocha)
+### ☕ Off the keyboard
+
+Travelling, cooking, and searching for a better cup of coffee.
+
+---
+
+### 🌐 Find me
+
+- 🕸️ [stivio.dev](https://stivio.dev)
+- 📓 Most of my day-to-day work lives on my own GitLab — the interesting bits surface here
+- ✉️ Reach out via [stivio.dev/contact](https://stivio.dev)
