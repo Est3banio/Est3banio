@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Stefan
 
-Full-stack developer from Bern, Switzerland — building products with **Ruby on Rails** and **Hotwire**.
+Full-stack developer from Bern, Switzerland - building products with **Ruby on Rails** and **Hotwire**.
 
 Founder of [**Stivio**](https://stivio.dev), a small Swiss studio making privacy-first software for people who think differently. I came to code late my first career was as a baker and that non-linear path shapes how I build and how I teach.
 
